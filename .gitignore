@@ -153,3 +153,4 @@ tests/cpp-tests/Resources/audio
 /_artwork/PNG/.DS_Store
 
 *.a
+*.iml
